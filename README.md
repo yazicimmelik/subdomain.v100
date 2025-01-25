@@ -4,7 +4,7 @@ Proje Adı: Melik YAZICI
 
 Teslim Tarihi: 31.01.2025
 
-###Projenin Tanımı
+<h1>Projenin Tanımı</h1>
 
 Subdomain Keşif Aracı, bir alan adına ait tüm alt alan adlarının (subdomain) tespit edilmesini sağlayan bir yazılım aracıdır. Araç, hem aktif hem de pasif tarama yöntemleri kullanarak DNS kayıtlarını analiz eder, wildcard DNS gibi yaygın çözümlemeleri tespit eder ve sonucu JSON formatında sunar.
 

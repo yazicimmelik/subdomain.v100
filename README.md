@@ -33,7 +33,7 @@
 Projeyi klonlayın:
 <code>
 git clone https://https://github.com/yazicimmelik/subdomain.v100
-cd subdomain-scanner
+cd subdomain.v100
 </code>
 
 Gerekli paketleri yükleyin:

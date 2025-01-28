@@ -1,0 +1,8 @@
+Subdomain,IP Addresses,HTTP Status,DNS Records
+dns.facebook.com,157.240.238.14,301,"{""MX"": [""10 smtpin.vvv.facebook.com.""], ""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""star.c10r.facebook.com.""]}"
+www.facebook.com,157.240.238.35,301,"{""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""star-mini.c10r.facebook.com.""]}"
+blog.facebook.com,57.144.126.141,301,"{""MX"": [""10 smtpin.vvv.facebook.com.""], ""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""star.c10r.facebook.com.""]}"
+prod.facebook.com,157.240.238.14,301,"{""MX"": [""10 smtpin.vvv.facebook.com.""], ""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""star.c10r.facebook.com.""]}"
+portal.facebook.com,157.240.238.14,301,"{""MX"": [""10 smtpin.vvv.facebook.com.""], ""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""star.c10r.facebook.com.""]}"
+api.facebook.com,57.144.126.141,301,"{""MX"": [""10 smtpin.vvv.facebook.com.""], ""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""star.c10r.facebook.com.""]}"
+dev.facebook.com,10.110.231.12,,"{""TXT"": [""\""v=spf1 a ~all\""""], ""CNAME"": [""intern-regional.vvv.facebook.com.""]}"

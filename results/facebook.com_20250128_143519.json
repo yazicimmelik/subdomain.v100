@@ -1,0 +1,130 @@
+{
+    "scan_info": {
+        "domain": "facebook.com",
+        "scan_date": "2025-01-28T14:35:09.270250",
+        "total_subdomains_checked": 25,
+        "found_subdomains": 7
+    },
+    "findings": [
+        {
+            "subdomain": "dns.facebook.com",
+            "ip_addresses": [
+                "157.240.238.14"
+            ],
+            "dns_records": {
+                "MX": [
+                    "10 smtpin.vvv.facebook.com."
+                ],
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "star.c10r.facebook.com."
+                ]
+            },
+            "http_status": 301
+        },
+        {
+            "subdomain": "www.facebook.com",
+            "ip_addresses": [
+                "157.240.238.35"
+            ],
+            "dns_records": {
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "star-mini.c10r.facebook.com."
+                ]
+            },
+            "http_status": 301
+        },
+        {
+            "subdomain": "blog.facebook.com",
+            "ip_addresses": [
+                "57.144.126.141"
+            ],
+            "dns_records": {
+                "MX": [
+                    "10 smtpin.vvv.facebook.com."
+                ],
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "star.c10r.facebook.com."
+                ]
+            },
+            "http_status": 301
+        },
+        {
+            "subdomain": "prod.facebook.com",
+            "ip_addresses": [
+                "157.240.238.14"
+            ],
+            "dns_records": {
+                "MX": [
+                    "10 smtpin.vvv.facebook.com."
+                ],
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "star.c10r.facebook.com."
+                ]
+            },
+            "http_status": 301
+        },
+        {
+            "subdomain": "portal.facebook.com",
+            "ip_addresses": [
+                "157.240.238.14"
+            ],
+            "dns_records": {
+                "MX": [
+                    "10 smtpin.vvv.facebook.com."
+                ],
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "star.c10r.facebook.com."
+                ]
+            },
+            "http_status": 301
+        },
+        {
+            "subdomain": "api.facebook.com",
+            "ip_addresses": [
+                "57.144.126.141"
+            ],
+            "dns_records": {
+                "MX": [
+                    "10 smtpin.vvv.facebook.com."
+                ],
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "star.c10r.facebook.com."
+                ]
+            },
+            "http_status": 301
+        },
+        {
+            "subdomain": "dev.facebook.com",
+            "ip_addresses": [
+                "10.110.231.12"
+            ],
+            "dns_records": {
+                "TXT": [
+                    "\"v=spf1 a ~all\""
+                ],
+                "CNAME": [
+                    "intern-regional.vvv.facebook.com."
+                ]
+            },
+            "http_status": null
+        }
+    ]
+}

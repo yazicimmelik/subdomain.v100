@@ -32,7 +32,7 @@
 <pre>
 Projeyi klonlayın:
 <code>
-git clone https://github.com/kullaniciadi/subdomain-scanner.git
+git clone https://https://github.com/yazicimmelik/subdomain.v100
 cd subdomain-scanner
 </code>
 
